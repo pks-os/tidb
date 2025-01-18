@@ -1,6 +1,6 @@
 module github.com/pingcap/tidb
 
-go 1.23.4
+go 1.23.5
 
 require (
 	cloud.google.com/go/kms v1.15.7
@@ -50,7 +50,7 @@ require (
 	github.com/golang/protobuf v1.5.4
 	github.com/golang/snappy v0.0.4
 	github.com/golangci/gofmt v0.0.0-20241223200906-057b0627d9b9
-	github.com/golangci/golangci-lint v1.63.3
+	github.com/golangci/golangci-lint v1.63.4
 	github.com/golangci/gosec v0.0.0-20180901114220-8afd9cbb6cfb
 	github.com/golangci/misspell v0.6.0
 	github.com/golangci/prealloc v0.0.0-20180630174525-215b22d4de21
@@ -109,7 +109,7 @@ require (
 	github.com/stretchr/testify v1.10.0
 	github.com/tdakkota/asciicheck v0.3.0
 	github.com/tiancaiamao/appdash v0.0.0-20181126055449-889f96f722a2
-	github.com/tikv/client-go/v2 v2.0.8-0.20250107062519-2eba2f614b38
+	github.com/tikv/client-go/v2 v2.0.8-0.20250117034919-61e09c6539bd
 	github.com/tikv/pd/client v0.0.0-20250107032658-5c4ab57d68de
 	github.com/timakin/bodyclose v0.0.0-20241017074812-ed6a65f985e3
 	github.com/twmb/murmur3 v1.1.6
